@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Siddheya Pitambare]
 
-<!--
-**siddheyapitambare/siddheyapitambare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 College student, passionate about learning and building cool stuff.
+- 🏍️ Love riding my Royal Enfield and exploring new places.
+- 📖 Working on **PitambareDiary**, a personal diary and task management app.
+- 💻 Enjoy coding, solving problems, and experimenting with new technologies.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** [Your favorite languages, e.g., Python, JavaScript, etc.]
+- **Frameworks & Tools:** [React, Node.js, Flutter, etc.]
+- **Databases:** [MySQL, Firebase, PostgreSQL, etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- [What you're currently learning, e.g., AI, Web3, DevOps]
+
+### 📫 How to Reach Me
+- **GitHub:** [Your GitHub Profile Link]
+- **Email:** [Your Email Address]
+- **LinkedIn:** [Your LinkedIn Profile]
+
+🚀 _Always learning, always building!_
+
+
