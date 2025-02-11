@@ -16,7 +16,7 @@
 
 ### 📫 How to Reach Me
 - **GitHub:** [Your GitHub Profile Link]
-- **Email:** [Your Email Address]
+- **Email:** [siddheyapitambare488@gmail.com]
 - **LinkedIn:** [Your LinkedIn Profile]
 
 🚀 _Always learning, always building!_
